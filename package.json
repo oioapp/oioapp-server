@@ -1,0 +1,16 @@
+{
+  "name": "oioapp-server",
+  "version": "0.0.1",
+  "description": "Simple express server for running oioapp structured apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clarence",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "cors": "~2.7.1",
+    "express": "~4.13.4"
+  }
+}
